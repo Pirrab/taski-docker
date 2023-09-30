@@ -7,7 +7,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['158.160.65.201', '127.0.0.1', 'lockalhost', 'taskipirrab.ddns.net']
+ALLOWED_HOSTS = ['158.160.20.88', '127.0.0.1', 'lockalhost', 'taskipirrab.ddns.net']
 
 
 # Application definition
